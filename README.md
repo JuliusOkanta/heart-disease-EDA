@@ -11,6 +11,7 @@ The analysis aims to explore patterns, correlations, and significant factors ass
 - `EDA_Analysis.ipynb`: Jupyter Notebook containing the full exploratory data analysis (EDA) process, including data cleaning, feature analysis, and visualizations.
 - `app.py`: A Streamlit application to visualize the key insights and visualizations from the EDA in a user-friendly web interface.
 - `heart_disease_cleaned.csv`: The cleaned dataset used for analysis and visualization. The dataset contains various health and demographic attributes of individuals, along with an indicator of heart disease.
+- `Visualisation`: Contains visuals from the univariate and multivariate data analysis.
 
 ## Requirements
 
