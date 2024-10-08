@@ -21,27 +21,6 @@ To run this project, the following libraries are required:
 - `plotly`
 - `streamlit`
 
-You can install these dependencies using the following command:
-
-```bash
-pip install pandas numpy plotly streamlit
-```
-
-Alternatively, you can create a `requirements.txt` file with the following contents and install all dependencies at once:
-
-```bash
-pandas
-numpy
-plotly
-streamlit
-```
-
-Then install the dependencies with:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Dataset
 
 The `heart_disease_cleaned.csv` dataset contains the following key features:
